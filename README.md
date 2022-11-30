@@ -1,0 +1,35 @@
+<p align="center">
+  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
+</p>
+
+## Description
+
+Test task for the KITGLOBAL company.
+
+The author is ternovyi.roman@gmail.com
+
+## Installation
+
+```bash
+$ npm i
+```
+
+## Running the app
+
+```bash
+# development
+$ npm run start
+
+# watch mode
+$ npm run start:dev
+
+# production mode
+$ npm run start:prod
+```
+
+## Test
+
+```bash
+# e2e tests
+$ npm run test:e2e
+```
